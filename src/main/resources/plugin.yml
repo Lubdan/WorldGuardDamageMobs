@@ -1,0 +1,5 @@
+name: WorldGuardDamageMobs
+version: ${project.version}
+main: lubdan.worldguarddamagemobs.WorldGuardDamageMobs
+depend: [WorldGuard]
+
